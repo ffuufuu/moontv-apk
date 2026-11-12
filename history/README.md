@@ -8,7 +8,7 @@
 | 管理端 | `xyz.nova.moontv.admin` | 17 | 1.0 → 4.8 | `admin-v1.0-4.8.zip` |
 | 客户端 Beta | `xyz.nova.moontv.beta` | 8 | 5.4-beta → 6.0-beta4 | `beta-v5.4-beta-6.0-beta4.zip` |
 | 推送器 | `xyz.nova.moontv.pusher` | 7 | 1.0 → 1.6 | `pusher-v1.0-1.6.zip` |
-| 一体化测试 | `xyz.nova.moontv.all` | 5 | 5.0-t1 → 5.0-t5 | `allinone-v5.0-t1-5.0-t5.zip` |
+| 一体化测试 | `xyz.nova.moontv.all` | 6 | 5.0-t1 → 5.0-t6 | `allinone-v5.0-t1-5.0-t6.zip` |
 
 ## 客户端完整列表（1.0 → 7.1）
 
