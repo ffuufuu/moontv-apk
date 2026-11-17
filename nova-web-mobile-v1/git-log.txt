@@ -1,0 +1,22 @@
+1d5aad1 fix(admin): iframe改为内容全高+外层整页滚动，手机可划到底看到保存
+dbc1817 fix(admin): embed面板放开文档滚动，修复底部保存按钮被裁
+46486b7 fix(admin): 面板iframe改为固定视口高度内部滚动，底部保存按钮可见；列表底部留白
+a0ace2e fix(search): 搜索页与筛选chip补浅色/深色双主题兼容
+28f145e feat(search): 搜索框胶囊紫化、结果头一行化、筛选chip胶囊、高级面板深紫；选集分段与选集/换源tab紫化
+50b74fd feat(theme): 全站绿色硬编码统一改紫，补边框/光环/焦点态覆盖
+599ffcc fix(mobile): 修复后台首页 import 语法错误，重写干净版
+4eca9eb feat(mobile): 底部导航统一三tab紫style；后台去底部五tab加回前台；数据卡接真实源与分类；主题主色改紫
+5ab58a5 fix(admin): 内嵌面板继承深色主题
+cd9a4aa refactor(admin): 回退到原版面板内嵌，仅做手机端适配样式
+759880e feat(admin): 补全源4tab/OIDC发现/分类排序/用户组可用源 + 邮件、去广告面板
+54caab8 feat(admin): 站点/用户/视频源三个面板重写，新后台覆盖5个面板
+b5f45d3 feat(admin): 新后台UI骨架 + 注册配置/分类配置两个面板重写
+63923c0 fix(admin): 内嵌面板 render 调用类型窄化，修复构建失败
+d0653e9 feat(admin): 后台面板内嵌不跳转(embed模式) + 发现页双排筛选 + 详情页视觉重做
+cdf83d0 feat(mobile): 第二批 底部3tab+发现页+详情页+我的页+后台15面板入口与真实数据
+64128bb feat(admin): 后台首页支持 ?force=mobile 预览，容器限宽
+1685489 feat(admin): 手机端后台卡片式首页（系统管理中心/数据卡/8入口/底部导航），桌面端不变
+c2cfdef fix(mobile): 海报与Hero改为进play聚合页，修复点卡片404
+7b4aedb style: 全站绿色主色映射为紫（含后台）
+ece78d3 feat(mobile): 补回首页功能入口；全站绿色主色映射为紫
+3b21809 feat(mobile): 手机端新首页（紫蓝主题/Hero/快捷卡/热播/推荐），桌面端不变
